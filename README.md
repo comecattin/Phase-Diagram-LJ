@@ -1,4 +1,4 @@
-# Phase_Diagram_LJ
+# Phase Diagram Lennard-Jones
 Molecular dynamics simulation of Lennard-Jones system
 
 
